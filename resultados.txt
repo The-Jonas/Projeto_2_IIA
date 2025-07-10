@@ -1,0 +1,7 @@
+📊 MÉTRICAS DO MODELO YOLOv8
+============================
+mAP50: 0.7174
+mAP50-95: 0.4103
+Precision (mp): 0.7539
+Recall (mr): 0.6298
+Velocidade de inferência (ms/imagem): 40.05
