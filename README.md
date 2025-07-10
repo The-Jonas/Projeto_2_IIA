@@ -5,7 +5,7 @@ Este projeto tem como objetivo aplicar técnicas modernas de **detecção de obj
 
 ## 🧷Autores
 
-João Victor Pereira Vieira - 211036114 
+João Victor Pereira Vieira - 211036114   
 Felipe Oliveira do Nascimento Florentino - 202021767
 
 ## 📁 Estrutura do Projeto
